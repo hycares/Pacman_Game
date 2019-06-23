@@ -38,7 +38,7 @@ __问题__
 
 __运行__
 
-![Capture](.\asset\Capture.PNG)
+![Capture](./asset/Capture.PNG)
 
-![s2](.\asset\s2.PNG)
+![s2](./asset/s2.PNG)
 
